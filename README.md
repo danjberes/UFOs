@@ -16,7 +16,7 @@ When no filters are being used all of the data will be shown. To use the filters
 
 To further along this example, multiple filters can be applied, such as: Date, city, and country. In the example below there is no sighting that fits all 3 criteria, so the data rows are empty.
 
-![MultiFilter](.static/images/MultiFilter.png)
+![MultiFilter](./static/images/MultiFilter.png)
 
 ## UFOs Analysis Summary
 
